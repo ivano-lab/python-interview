@@ -35,6 +35,8 @@ Bem-vindo à entrevista técnica hipotética em Python! Nesta simulação, explo
 
 ## Contribuição
 
+Fique à vontade para adicionar mais capítulos, perguntas ou desafios conforme desejado. Essa estrutura fornece um ponto de partida, e você pode personalizá-la para atender aos seus objetivos e abordar os tópicos que considerar relevantes para uma entrevista técnica em Python.
+
 1. Faça um fork deste repositório e clone-o em sua máquina local.
 
 2. Crie um branch propondo novas soluções ou novos desafios.
@@ -50,4 +52,3 @@ Bem-vindo à entrevista técnica hipotética em Python! Nesta simulação, explo
 
 Este projeto está licenciado sob a [MIT License](https://choosealicense.com/licenses/mit/#suggest-this-license).
 
-Fique à vontade para adicionar mais capítulos, perguntas ou desafios conforme desejado. Essa estrutura fornece um ponto de partida, e você pode personalizá-la para atender aos seus objetivos e abordar os tópicos que considerar relevantes para uma entrevista técnica em Python.
