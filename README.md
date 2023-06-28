@@ -1,5 +1,4 @@
-# Entrevista Técnica Hipotética em Python 
-<img src="https://cdn.svgporn.com/logos/python.svg" alt="drawing" width="50"/><img src="https://cdn.svgporn.com/logos/php.svg" alt="drawing" width="50"/>
+# Entrevista Técnica Hipotética em Python => <img src="https://cdn.svgporn.com/logos/python.svg" alt="drawing" width="50"/><img src="https://cdn.svgporn.com/logos/php.svg" alt="drawing" width="50"/>
 
 Bem-vindo à entrevista técnica hipotética em Python! Nesta simulação, exploraremos diferentes tópicos e desafios relacionados à programação em Python. Estes são os capítulos que abordaremos:
 
