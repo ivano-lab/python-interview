@@ -7,7 +7,7 @@ Bem-vindo à entrevista técnica hipotética em Python! Nesta simulação, explo
 ## Capítulo 1: Conceitos Básicos
 
 - [O que é Python e quais são suas principais características?](python-intro.md) 
-- Quais são as diferenças entre listas e tuplas em Python?
+- [Quais são as diferenças entre listas e tuplas em Python?](list-tuple.md)
 - Explique a diferença entre uma função e um método em Python.
 
 ## Capítulo 2: Estruturas de Dados
